@@ -1,0 +1,1 @@
+note: this directory serves to store figures for the paper, as well as the appendix of the paper.
