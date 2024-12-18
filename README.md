@@ -1,6 +1,6 @@
 # ACMI_frontiers_replication
 
-This github repository contains the replication files for the article titled "Projecting Future Migration with Bayesian Hierarchical Gravity: Models of Migration: An application to Africa" published in **Frontiers in Climate** (2024).
+This github repository contains the replication files for the article titled `[Projecting Future Migration with Bayesian Hierarchical Gravity: Models of Migration: An application to Africa](https://www.frontiersin.org/journals/climate/articles/10.3389/fclim.2024.1384295/full)' published in **Frontiers in Climate** (2024).
 
 ## Clone this repository
 
@@ -25,7 +25,7 @@ ACMI_frontiers_replication/ \
 │   ├── projection_data.Rds \
 │   ├── CEPII_Gravity_V202211_addVars.csv \
 ├── stan_output/ \[_stores the stan model files_\] \
-│   └── loo_cv/ \ \[_stores the stan loo cv files_\]
+│   ├── loo_cv/ \ \[_stores the stan loo cv files_\] \
 ├── projections/ \[_stores the projection results_\] \
 ├── tables/ \[_stores the tables generated from the analysis_\] \
 ├── figures/ \[_stores the figures generated from the analysis_\] \
@@ -64,8 +64,7 @@ install.packages("gridExtra")
 
 ## citation
 
-Citation: tbd
-
+Cottier, F. (2024). Projecting Future Migration with Bayesian Hierarchical Gravity Models of Migration: An application to Africa. Frontiers in Climate, 6, 1384295. https://doi.org/10.3389/fclim.2024.1384295
 
 ## version history
-v.0.9: beta public
+v1.0: public release (12/18/2024)
